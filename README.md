@@ -4,7 +4,7 @@ M.S. in Biological Data Science from Arizona State University with a background 
 
 ## About Me
 
-I am interested in applying data science and bioinformatics to biological, healthcare, and life science problems.
+I am interested in applying data analyst, data science and bioinformatics to biological, healthcare, and life science problems.
 
 My experience combines:
 
