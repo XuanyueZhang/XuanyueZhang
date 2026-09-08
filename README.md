@@ -33,6 +33,8 @@ My experience combines:
 - Biological Data Science
 - HPLC
 - ICP-MS
+- GC-MS
+- LC-MS
 - Microbiology
 - Sample Preparation
 - Analytical Method Troubleshooting
